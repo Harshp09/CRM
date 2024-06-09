@@ -1,0 +1,16 @@
+/* frontend/src/components/CreateCampaign.css */
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.box {
+    width: 400px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: rgb(139, 216, 238);
+    /* Sky blue color */
+}
